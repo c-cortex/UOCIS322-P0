@@ -28,10 +28,8 @@ make sure you set up an SSH key first.
 [Tutorial](https://docs.github.com/en/github/authenticating-to-github/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent).
 
 When you're done use the following command to add the key (do this every time you ssh into the server): 
-'''
-ssh-add path/to/.ssh/ssh_filename
-'''
-This is a test.
+'''ssh-add path/to/.ssh/ssh_filename'''
+
 
 ## Instructions
 
