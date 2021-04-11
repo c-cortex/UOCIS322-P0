@@ -27,6 +27,11 @@ In order to access your GitHub repos and commit changes from the server,
 make sure you set up an SSH key first. 
 [Tutorial](https://docs.github.com/en/github/authenticating-to-github/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent).
 
+When you're done use the following command to add the key (do this every time you ssh into the server): 
+'''
+ssh-add path/to/.ssh/ssh_filename
+'''
+
 ## Instructions
 
 - Start by forking this repository on
@@ -36,7 +41,7 @@ then cloning onto the server. Read this file (README.md).
 - Before you edit a file, read the comments (inside that file) carefully.
 
 - Copy the credentials-skel.ini file, rename it to credentials.ini and fill in
-  appropriately.
+  appropriately
 
 - Modify the program "hello.py" so that it prints "Hello
   world". (Nothing more and nothing less.)  Note that you do NOT do
