@@ -1,37 +1,13 @@
 # Project 0 - Hello
 -------------
 
-Deadline: 
-
-Trivial project to exercise version control, turn-in, and other mechanisms.
-
-:warning: Be careful about the changes you make.
-I highly recommend waiting until session 2 (04/08/2021).
-If you insist on getting started earlier, please let me know
-so I can explain everything in advance.
-The best way to reach me is through Slack or email.
-
-## Before you begin
-
-If you don't know how to SSH:
-
-```
-ssh your_cs_username@hostname
-```
-
-If you're using Windows, please refer to this [link](https://www.howtogeek.com/336775/how-to-enable-and-use-windows-10s-built-in-ssh-commands/) for instructions on enabling SSH in Windows.
-
-An alternative for all platforms: [Termius](https://termius.com/).
-
-In order to access your GitHub repos and commit changes from the server,
-make sure you set up an SSH key first. 
-[Tutorial](https://docs.github.com/en/github/authenticating-to-github/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent).
-
-When you're done use the following command to add the key (do this every time you ssh into the server): 
-'''ssh-add path/to/.ssh/ssh_filename'''
 
 
-## Instructions
+
+
+
+
+## Instructions 
 
 - Start by forking this repository on
 [GitHub](https://github.com/alihassanijr/UOCIS322-P0),
