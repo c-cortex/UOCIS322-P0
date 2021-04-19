@@ -1,16 +1,6 @@
-# Project 0 - Hello
--------------
+# Project 0 - Hell0 # 
+```
+Chris Cortes | ccortes@uoregon.edu
 
-
-
-
-
-
-
-## Information 
-
-Author: Chris Cortes
-
-Contact Address: ccortes@uoregon.edu
-
-Description: The sofware reads the configure.ini file, finds the message and then prints it.
+The sofware reads the configure.ini file, finds the message and then prints it.
+```
